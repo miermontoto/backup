@@ -1,0 +1,10 @@
+[submodule "Bases"]
+	branch = main
+[submodule "Paradigmas"]
+	branch = main
+[submodule "CPM"]
+	branch = main
+[submodule "Computacion"]
+	branch = main
+[submodule "Sistemas"]
+	branch = main
