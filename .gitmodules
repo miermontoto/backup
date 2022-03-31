@@ -1,0 +1,39 @@
+[submodule "y2t2/Bases"]
+	path = y2t2/Bases
+	url = https://github.com/miermontoto/Bases
+[submodule "y2t2/CPM"]
+	path = y2t2/CPM
+	url = https://github.com/miermontoto/CPM
+[submodule "y2t2/Paradigmas"]
+	path = y2t2/Paradigmas
+	url = https://github.com/miermontoto/Paradigmas
+[submodule "y2t2/Sistemas"]
+	path = y2t2/Sistemas
+	url = https://github.com/miermontoto/Sistemas
+[submodule "y2t2/Computacion"]
+	path = y2t2/Computacion
+	url = https://github.com/miermontoto/Computacion
+[submodule "y2t1/Arquitectura"]
+	path = y2t1/Arquitectura
+	url = https://github.com/miermontoto/Arquitectura
+[submodule "y2t1/Estructuras"]
+	path = y2t1/Estructuras
+	url = https://github.com/miermontoto/Estructuras
+[submodule "y2t1/Algoritmia"]
+	path = y2t1/Algoritmia
+	url = https://github.com/miermontoto/Algoritmia
+[submodule "y2t1/TEC"]
+	path = y2t1/TEC
+	url = https://github.com/miermontoto/TEC
+[submodule "y2t1/Computabilidad"]
+	path = y2t1/Computabilidad
+	url = https://github.com/miermontoto/Computabilidad
+[submodule "y1t2/Estadistica"]
+	path = y1t2/Estadistica
+	url = https://github.com/miermontoto/Estadistica
+[submodule "y1t1/Algebra"]
+	path = y1t1/Algebra
+	url = https://github.com/miermontoto/Algebra
+[submodule "y1t1/Calculo"]
+	path = y1t1/Calculo
+	url = https://github.com/miermontoto/Calculo
