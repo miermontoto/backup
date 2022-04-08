@@ -37,3 +37,9 @@
 [submodule "y1t1/Calculo"]
 	path = y1t1/Calculo
 	url = https://github.com/miermontoto/Calculo
+[submodule "y1t1/Empresa"]
+	path = y1t1/Empresa
+	url = https://github.com/miermontoto/Empresa
+[submodule "y1t1/Introduccion"]
+	path = y1t1/Introduccion
+	url = https://github.com/miermontoto/Introduccion
