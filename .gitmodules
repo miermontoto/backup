@@ -49,3 +49,12 @@
 [submodule "y1t2/FCR/FCR_PLs"]
 	path = y1t2/FCR/FCR_PLs
 	url = https://github.com/miermontoto/FCR_PLs
+[submodule "y3t1/IngSoftware"]
+	path = y3t1/IngSoftware
+	url = https://github.com/miermontoto/IngSoftware
+[submodule "y3t1/Redes"]
+	path = y3t1/Redes
+	url = https://github.com/miermontoto/Redes
+[submodule "y3t1/CES"]
+	path = y3t1/CES
+	url = https://github.com/miermontoto/CES
