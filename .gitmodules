@@ -43,12 +43,6 @@
 [submodule "y1t1/Introduccion"]
 	path = y1t1/Introduccion
 	url = https://github.com/miermontoto/Introduccion
-[submodule "y1t2/FCR/HackingForce"]
-	path = y1t2/FCR/HackingForce
-	url = https://github.com/miermontoto/HackingForce
-[submodule "y1t2/FCR/FCR_PLs"]
-	path = y1t2/FCR/FCR_PLs
-	url = https://github.com/miermontoto/FCR_PLs
 [submodule "y3t1/ISoft"]
 	path = y3t1/ISoft
 	url = https://github.com/miermontoto/ISoft
