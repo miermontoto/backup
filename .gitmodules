@@ -61,3 +61,6 @@
 [submodule "y1t2/Estadistica"]
 	path = y1t2/Estadistica
 	url = https://github.com/miermontoto/Estadistica
+[submodule "y1t1/Fundamentos"]
+	path = y1t1/Fundamentos
+	url = https://github.com/miermontoto/Fundamentos
