@@ -58,3 +58,6 @@
 [submodule "y3t1/Redes"]
 	path = y3t1/Redes
 	url = https://github.com/miermontoto/Redes
+[submodule "y1t2/FCR"]
+	path = y1t2/FCR
+	url = https://github.com/miermontoto/FCR
