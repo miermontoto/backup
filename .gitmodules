@@ -28,9 +28,6 @@
 [submodule "y2t1/Computabilidad"]
 	path = y2t1/Computabilidad
 	url = https://github.com/miermontoto/Computabilidad
-[submodule "y1t2/Estadistica"]
-	path = y1t2/Estadistica
-	url = https://github.com/miermontoto/Estadistica
 [submodule "y1t1/Algebra"]
 	path = y1t1/Algebra
 	url = https://github.com/miermontoto/Algebra
@@ -61,3 +58,6 @@
 [submodule "y1t2/FCR"]
 	path = y1t2/FCR
 	url = https://github.com/miermontoto/FCR
+[submodule "y1t2/Estadistica"]
+	path = y1t2/Estadistica
+	url = https://github.com/miermontoto/Estadistica
