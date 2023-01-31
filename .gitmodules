@@ -64,3 +64,12 @@
 [submodule "y1t1/Fundamentos"]
 	path = y1t1/Fundamentos
 	url = https://github.com/miermontoto/Fundamentos
+[submodule "y3t2/Distribuidos"]
+	path = y3t2/Distribuidos
+	url = https://github.com/miermontoto/Distribuidos
+[submodule "y3t2/Inteligentes"]
+	path = y3t2/Inteligentes
+	url = https://github.com/miermontoto/Inteligentes
+[submodule "y3t2/Infraestructura"]
+	path = y3t2/Infraestructura
+	url = https://github.com/miermontoto/Infraestructura
