@@ -73,3 +73,9 @@
 [submodule "y3t2/Infraestructura"]
 	path = y3t2/Infraestructura
 	url = https://github.com/miermontoto/Infraestructura
+[submodule "y3t2/IngRedes"]
+	path = y3t2/IngRedes
+	url = https://github.com/miermontoto/IngRedes
+[submodule "y3t2/SI"]
+	path = y3t2/SI
+	url = https://github.com/miermontoto/SI
