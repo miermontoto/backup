@@ -79,3 +79,9 @@
 [submodule "y3t2/SI"]
 	path = y3t2/SI
 	url = https://github.com/miermontoto/SI
+[submodule "y4t1/Negocio"]
+	path = y4t1/Negocio
+	url = https://github.com/miermontoto/Negocio
+[submodule "y4t1/Web"]
+	path = y4t1/Web
+	url = https://github.com/miermontoto/Web
