@@ -85,3 +85,9 @@
 [submodule "y4t1/Web"]
 	path = y4t1/Web
 	url = https://github.com/miermontoto/Web
+[submodule "y4t1/Servicios"]
+	path = y4t1/Servicios
+	url = https://github.com/miermontoto/Servicios
+[submodule "y4t1/Seguridad"]
+	path = y4t1/Seguridad
+	url = https://github.com/miermontoto/Seguridad
