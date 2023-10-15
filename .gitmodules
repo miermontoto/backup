@@ -91,3 +91,6 @@
 [submodule "y4t1/Seguridad"]
 	path = y4t1/Seguridad
 	url = https://github.com/miermontoto/Seguridad
+[submodule "y4t1/GTI"]
+	path = y4t1/GTI
+	url = https://github.com/miermontoto/GTI
