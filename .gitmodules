@@ -94,3 +94,9 @@
 [submodule "y4t1/GTI"]
 	path = y4t1/GTI
 	url = https://github.com/miermontoto/GTI
+[submodule "y4t2/Proyectos"]
+	path = y4t2/Proyectos
+	url = https://github.com/miermontoto/Proyectos
+[submodule "y4t2/Pruebas"]
+	path = y4t2/Pruebas
+	url = https://github.com/miermontoto/Pruebas
